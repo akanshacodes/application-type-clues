@@ -26,6 +26,16 @@ Clues:
 📌 Meaning:
 👉 Backend API / Server application
 
+## JavaScript projects ka rule
+
+Agar tumhara project inme se koi bhi hai:
+
+React (frontend)
+Express (backend)
+Next.js (fullstack)
+
+👉 to in sabko chalane ke liye Node.js zaroori hota hai
+
 ## 🔵 React (Frontend UI)
 Clues:
 - src/
